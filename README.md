@@ -13,8 +13,8 @@ README.md
 The ui.R and server.R are the code I have written for the final project shiny application named Iris Species Prediction. Following are the final project submission links of my iris species prediction shiny application and RStudio presentation slides:
 
 
-The shiny application is deployed on ShinyApps.io server at: https://github.com/Fooway/Developing_Data_Products.git 
-The RStudio presentation slides is published to RPubs at: http://rpubs.com/
+The shiny application is deployed on ShinyApps.io server at: https://fooway.shinyapps.io/Cousera_Developing_Data_Products  
+The RStudio presentation slides is published to RPubs at: http://rpubs.com/Fooway/devdataproducts
 
 If you like to run my Iris Species Prediction shiny application locally on your installed RStudio, you need to:
 
